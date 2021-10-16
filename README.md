@@ -18,3 +18,5 @@ Folowing this amazing [tutorial](https://quii.gitbook.io/learn-go-with-tests/), 
 - structs
   - parametric polymorphism
   - table driven testing
+- pointers
+  - errors
