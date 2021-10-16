@@ -15,3 +15,6 @@ Folowing this amazing [tutorial](https://quii.gitbook.io/learn-go-with-tests/), 
 - iteration
   - assert lib
   - benchmarking 
+- structs
+  - parametric polymorphism
+  - table driven testing
