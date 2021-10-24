@@ -20,3 +20,5 @@ Folowing this amazing [tutorial](https://quii.gitbook.io/learn-go-with-tests/), 
   - table driven testing
 - pointers
   - errors
+- maps
+  - errors

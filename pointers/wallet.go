@@ -2,6 +2,7 @@ package pointers
 
 import "errors"
 
+// ErrInsufficientFounds when insufficient funds
 var ErrInsufficientFounds = errors.New("insufficient funds")
 
 // Bitcoin currency type
@@ -13,7 +14,7 @@ type Wallet struct {
 }
 
 // Balance of a wallet
-func (w Wallet) Balance() Bitcoin {
+func (w *Wallet) Balance() Bitcoin {
 	return w.balance
 }
 
