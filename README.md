@@ -22,3 +22,6 @@ Folowing this amazing [tutorial](https://quii.gitbook.io/learn-go-with-tests/), 
   - errors
 - maps
   - errors
+- di
+  - dependency injection
+  - io.Writer
