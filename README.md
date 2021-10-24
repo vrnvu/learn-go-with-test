@@ -9,9 +9,7 @@ Folowing this amazing [tutorial](https://quii.gitbook.io/learn-go-with-tests/), 
   - runnners
   - assertions
 - integers
-  - todo
 - slices
-  - todo
 - iteration
   - assert lib
   - benchmarking 
@@ -25,3 +23,5 @@ Folowing this amazing [tutorial](https://quii.gitbook.io/learn-go-with-tests/), 
 - di
   - dependency injection
   - io.Writer
+- mocking
+  - mocks
