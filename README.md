@@ -25,3 +25,6 @@ Folowing this amazing [tutorial](https://quii.gitbook.io/learn-go-with-tests/), 
   - io.Writer
 - mocking
   - mocks
+- concurrency
+  - benchmarking
+  - channels
